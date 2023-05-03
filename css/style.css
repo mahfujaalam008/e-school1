@@ -1,0 +1,22 @@
+/* Fonts links*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/*common start*/
+body{
+font-family: 'Poppins',sans-serif;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+color: #000000;
+}
+/*common End*/
+
+/*header start*/
+header{}
+.cnav{}
+.logo{}
+.menu{}
+.menu ul li a{}
+.menu ul li a:hover{}
+
+/*header End*/
